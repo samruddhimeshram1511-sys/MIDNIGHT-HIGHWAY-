@@ -1,0 +1,6 @@
+{
+  "name": "Midnight Highway",
+  "description": "An immersive high-performance 399cc inline four-cylinder ZX-4R superbike racing simulation under a starry celestial night sky featuring live engine audio synthesis, dynamic follower lightwave tracking, and live leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
